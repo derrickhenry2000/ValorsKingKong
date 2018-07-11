@@ -1,4 +1,4 @@
-REM ## Copyright (c) 2018 Jenner Palacios
+REM ## Copyright (c) 2018 Derrick Henry and Jenner Palacios
 REM ## 
 REM ## Permission is hereby granted, free of charge, to any person obtaining a copy
 REM ## of this software and associated documentation files (the "Software"), to deal
